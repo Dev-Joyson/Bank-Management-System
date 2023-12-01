@@ -1,0 +1,16 @@
+You have Deposited: 8500 LKR 
+Date and time of the transaction: Fri Aug 18 21:01:11 IST 2023
+
+
+1500 LKR has Withrawed from this account  
+Date and time of the transaction: Fri Aug 18 21:01:24 IST 2023
+
+
+1000 LKR has Deposited To this account 
+Date and time of the Deposit: Fri Aug 18 21:01:30 IST 2023
+
+
+3000 LKR has transfered from this account to 654654
+Date and time of the transaction: Fri Aug 18 21:01:41 IST 2023
+
+
